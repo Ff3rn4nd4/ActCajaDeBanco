@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Capacitacion\CursoNet\ActCajaDeBanco\obj\Debug\net7.0\ActCajaDeBanco.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Capacitacion\CursoNet\ActCajaDeBanco\obj\Debug\net7.0\ActCajaDeBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Capacitacion\CursoNet\ActCajaDeBanco\obj\Debug\net7.0\ActCajaDeBanco.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Capacitacion\CursoNet\ActCajaDeBanco\obj\Debug\net7.0\ActCajaDeBanco.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Capacitacion\CursoNet\ActCajaDeBanco\obj\Debug\net7.0\ActCajaDeBanco.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Capacitacion\CursoNet\ActCajaDeBanco\bin\Debug\net7.0\ActCajaDeBanco.exe
+C:\Users\DELL\Desktop\Capacitacion\CursoNet\ActCajaDeBanco\bin\Debug\net7.0\ActCajaDeBanco.deps.json
+C:\Users\DELL\Desktop\Capacitacion\CursoNet\ActCajaDeBanco\bin\Debug\net7.0\ActCajaDeBanco.runtimeconfig.json
+C:\Users\DELL\Desktop\Capacitacion\CursoNet\ActCajaDeBanco\bin\Debug\net7.0\ActCajaDeBanco.dll
+C:\Users\DELL\Desktop\Capacitacion\CursoNet\ActCajaDeBanco\bin\Debug\net7.0\ActCajaDeBanco.pdb
+C:\Users\DELL\Desktop\Capacitacion\CursoNet\ActCajaDeBanco\obj\Debug\net7.0\ActCajaDeBanco.dll
+C:\Users\DELL\Desktop\Capacitacion\CursoNet\ActCajaDeBanco\obj\Debug\net7.0\refint\ActCajaDeBanco.dll
+C:\Users\DELL\Desktop\Capacitacion\CursoNet\ActCajaDeBanco\obj\Debug\net7.0\ActCajaDeBanco.pdb
+C:\Users\DELL\Desktop\Capacitacion\CursoNet\ActCajaDeBanco\obj\Debug\net7.0\ActCajaDeBanco.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Capacitacion\CursoNet\ActCajaDeBanco\obj\Debug\net7.0\ref\ActCajaDeBanco.dll
